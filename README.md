@@ -14,7 +14,7 @@ cuales son PET, cartón, vidrio y aluminio..**]
 A continuación se detalla el proceso para compilar y ejecutar el proyecto.
 
 ### **Requisitos**
-* [**Lista cualquier requisito, como la versión del compilador C (ej: GCC) o librerías externas si las hay.**]
+* [**compilador C (ej: GCC) .**]
 
 ### **Pasos para la Compilación**
 
