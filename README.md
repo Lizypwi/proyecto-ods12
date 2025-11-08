@@ -3,7 +3,7 @@
 ## 📄 Introducción
 
 [**El proyecto esta creado para ayudar a resolver la ODS 12 que es Produccion y consumo responsable. tiene como tarea tener el registro de las ventas en un centro de acopio de materiales
-reciclables cumpliendo con la ODS 12 que es Producción y consumo responsables donde el
+reciclables donde el
 programa ayuda con el buen manejo de residuos desechables, se tiene el registro de materiales
 cuales son PET, cartón, vidrio y aluminio..**]
 
